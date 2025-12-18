@@ -9,3 +9,9 @@
 ```
  npx tsc --init
 ```
+
+### Compailer setup
+
+```
+npx tsc
+```
