@@ -1,3 +1,5 @@
+import type Direction from "./enum.ts";
+
 export function frok(person: string): string {
   return `Hello, ${person}!`;
 }
