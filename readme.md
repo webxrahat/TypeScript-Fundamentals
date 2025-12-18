@@ -2,12 +2,10 @@
 
 ```
  npm i -D typescript
-
 ```
 
 ### Install ts-configuration
 
 ```
  npx tsc --init
-
 ```
